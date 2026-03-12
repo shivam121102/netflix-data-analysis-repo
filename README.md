@@ -29,7 +29,7 @@ The dashboard provides insights such as:
 - Top countries producing Netflix content
 
 ## Dashboard Preview
-![Netflix Dashboard](Screenshot 2026-03-12 163056.png)
+![Netflix Dashboard](Screenshot%202026-03-12%20163056.png)
 
 ## Files in Repository
 - `NETFLIX.pbix` → Power BI dashboard file
