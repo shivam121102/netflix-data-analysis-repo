@@ -31,6 +31,12 @@ The dashboard provides insights such as:
 ## Dashboard Preview
 ![Netflix Dashboard](Screenshot%202026-03-12%20163056.png)
 
+![Netflix Dashboard](Screenshot%202026-03-12%20164344.png)
+
+![Netflix Dashboard](Screenshot%202026-03-12%20164411.png)
+
+![Netflix Dashboard](Screenshot%202026-03-12%20164420.png)
+
 ## Files in Repository
 - `NETFLIX.pbix` → Power BI dashboard file
 - `README.md` → Project documentation
